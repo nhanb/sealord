@@ -30,3 +30,6 @@ crash on Ubuntu (haven't tried it on Windows). No idea why.
 
 - After building the jar file, remember to copy `img/` and `sound/` to its
 same folder or things won't work.
+
+- Hard AI seemingly not working correctly in some cases. Didn't have time to
+fix this.
