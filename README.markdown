@@ -14,10 +14,8 @@ nothing stopping you from importing it into a netbeans project.
     for every turn.
     + Hard: monsters can be laid either horizontally or vertically. PC AI
     tries shooting neighboring squares after a hit.
-
 2. Put monsters on your map (the left one). If you're on Hard difficulty, press
 space to switch between horizontal and vertical.
-
 3. Profit.
 
 # Kinks
