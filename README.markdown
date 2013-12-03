@@ -1,3 +1,5 @@
+![Startup screen](https://raw.github.com/nhanb/sealord/master/screenshots/startup.png "Awesome artwork - courtesy of Wikipedia")
+
 # Intro
 
 A battleship-style game written in Java swing and standard 2D graphics. Here in
@@ -17,6 +19,8 @@ nothing stopping you from importing it into a netbeans project.
 2. Put monsters on your map (the left one). If you're on Hard difficulty, press
 space to switch between horizontal and vertical.
 3. Profit.
+
+![](https://raw.github.com/nhanb/sealord/master/screenshots/gameplay.png)
 
 # Kinks
 
