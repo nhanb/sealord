@@ -33,3 +33,8 @@ same folder or things won't work.
 
 - Hard AI seemingly not working correctly in some cases. Didn't have time to
 fix this.
+
+- The report contains crappy auto generated UML diagrams, somewhat
+non-scholarly language and a (kind of) vague architectural description. How
+I miss the time when I could whip up stuff like this and still get away with
+a High Distinction. Those were the days...
