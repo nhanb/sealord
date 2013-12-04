@@ -18,7 +18,7 @@ public class RemainingShipsLabel extends JLabel implements Observer {
 
         map.addObserver(this);
         remainingShips = map.getShips().size();
-        setText("Remaining ships on map: " + remainingShips);
+        setText("Remaining monsters on map: " + remainingShips);
         repaint();
     }
 
@@ -26,7 +26,7 @@ public class RemainingShipsLabel extends JLabel implements Observer {
     public void update(Observable o, Object arg) {
         Map m = (Map) o;
         remainingShips = m.getShips().size();
-        setText("Remaining ships on map: " + remainingShips);
+        setText("Remaining monsters on map: " + remainingShips);
         repaint();
     }
 }
